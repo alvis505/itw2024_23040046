@@ -1,0 +1,55 @@
+html {
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-size: 1900px 300px;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-family: "Comic Sans MS";
+  color: darkblue;
+  font-size: 60px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  text-align: justify;
+}
+
+#satu {
+  text-align: center;
+  color: burlywood;
+}
+
+#dua {
+  text-align: right;
+  line-height: 2;
+}
+
+#tiga {
+  color: red;
+}
+#tiga:hover {
+  color: blue;
+}
+
+#empat {
+  text-decoration: none;
+}
+
+#empat:hover {
+  color: white;
+  background-color: blue;
+}

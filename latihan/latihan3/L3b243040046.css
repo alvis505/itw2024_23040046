@@ -1,0 +1,39 @@
+html {
+  background-color: aqua;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-family: "Comic Sans MS";
+  color: darkblue;
+  font-size: 60px;
+  text-align: center;
+}
+
+h3 {
+  a {
+    color: aliceblue;
+  }
+}
+
+h4 {
+  text-align: right;
+  font-style: italic;
+}
+
+p {
+  text-align: justify;
+}
+
+#satu {
+  text-align: center;
+  color: burlywood;
+}
+
+#dua {
+  text-align: right;
+  line-height: 2;
+}
