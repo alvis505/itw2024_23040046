@@ -1,0 +1,141 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  font: 16px/28px arial, sans-serif;
+  background-color: rgb(6, 6, 91);
+  color: #333;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  background-color: whitesmoke;
+  padding: 20px;
+}
+
+.heading {
+  padding: 20px;
+}
+
+.header .judul {
+  font-size: 43px;
+  font-weight: bold;
+  color: rgb(0, 0, 102);
+  background-color: green;
+  padding: 2%;
+}
+
+.header ul li {
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 10px;
+  padding: -10%;
+  color: white;
+}
+
+.header a {
+  text-decoration: none;
+  color: rgb(0, 0, 102);
+  padding: 3px;
+}
+
+.header a:hover {
+  background-color: whitesmoke;
+}
+
+.hero {
+  height: 400px;
+  background-image: url(bljr.png);
+  background-size: cover;
+  background-position: 0 20%;
+  border-top: 5px solid darkgreen;
+  border-bottom: 5px solid rgb(0, 103, 0);
+}
+
+.content {
+  padding: 20px;
+}
+
+.content h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+.content .penulis {
+  font-size: 11px;
+  margin-top: -5px;
+}
+
+.content p {
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: black;
+}
+
+.content .penulis a {
+  text-decoration: none;
+  color: lightskyblue;
+}
+
+.footer {
+  background-color: #333;
+  padding: 10px;
+}
+
+.footer .copy {
+  color: #eaeaea;
+  text-align: center;
+  font-size: 12px;
+}
+
+.khaki {
+  background-color: khaki;
+}
+
+.gambar {
+  height: 300px;
+  background-image: url(pr.png);
+  background-color: red;
+  background-size: cover;
+  background-position: 0;
+  border-top: 5px solid darkgreen;
+  border-bottom: 5px solid darkgreen;
+  width: 100%;
+}
+
+.gambar .promo {
+  text-align: right;
+  color: black;
+  font-weight: bold;
+  font-size: larger;
+}
+
+H1 .harga {
+  text-decoration: line-through;
+  text-align: center;
+}
+
+.hrga {
+  text-align: center;
+  background-color: khaki;
+}
+
+.BELI {
+  font-size: 20px;
+  background-color: skyblue;
+  font-weight: bold;
+  color: red;
+  text-align: right;
+  text-decoration: underline;
+}
+
+.BELI :hover {
+  background-color: khaki;
+}
+
+.beli {
+  text-align: right;
+}
